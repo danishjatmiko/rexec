@@ -12,6 +12,13 @@ import (
 	"strings"
 )
 
+// ini func coba2
+func iniContohDanish() error {
+	return nil
+}
+
+//
+
 func editConfig() error {
 	f, err := getConfigPath("hosts")
 	if err != nil {
