@@ -12,6 +12,8 @@ import (
 	"strings"
 )
 
+//nambah log biar kopat
+
 // ini func coba2
 func iniContohDanish() error {
 	return nil
